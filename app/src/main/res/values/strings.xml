@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Homework Tracking App</string>
+    <string name="etUserName_hint">User Name</string>
+    <string name="etPassword_hint">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="btnNameHint">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etReenterPassword">Re-Enter Password</string>
+    <string name="Preffered_time">OPTİON</string>
+    <string name="Preffered_time8">Student</string>
+    <string name="Preffered_time24">Teacher</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnRegister">Register</string>
+    <string name="Back">Back</string>
+    
+    <string-array name="SCHOOL">
+        <item>Primary School</item>
+        <item>Middle School</item>
+        <item>High-School</item>
+        <item>University</item>
+    </string-array>
+</resources>
