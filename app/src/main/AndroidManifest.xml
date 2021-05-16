@@ -9,7 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HomeworkApplication">
-        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".AboutClassActivity"></activity>
+        <activity android:name=".AboutStudentActivity" />
+        <activity android:name=".AboutLessonActivity" />
+        <activity android:name=".AboutHomeworkActivity" />
+        <activity android:name=".AboutAppActivity" />
+        <activity android:name=".ClassInsertActivity" />
+        <activity android:name=".ClassActivity" />
+        <activity android:name=".LessonInsertActivity" />
+        <activity android:name=".LessonActivity" />
+        <activity android:name=".StudentInsertActivity" />
+        <activity android:name=".StudentListViewActivity" />
+        <activity android:name=".StudentActivity" />
+        <activity android:name=".RegisterActivity" />
         <activity android:name=".HomeActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

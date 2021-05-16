@@ -1,14 +1,16 @@
 package com.example.homeworkapplication.model;
 
 public class student {
-String Name;
-String Surname;
-int image;
+    String Name;
+    String Surname;
+    String Department;
+    int Image;
 
-    public student(String name, String surname, int image) {
+    public student(String name, String surname, String department, int image) {
         Name = name;
         Surname = surname;
-        this.image = image;
+        Department = department;
+        Image = image;
     }
 
     public String getName() {
@@ -27,12 +29,20 @@ int image;
         Surname = surname;
     }
 
+    public String getDepartment() {
+        return Department;
+    }
+
+    public void setDepartment(String department) {
+        Department = department;
+    }
+
     public int getImage() {
-        return image;
+        return Image;
     }
 
     public void setImage(int image) {
-        this.image = image;
+        Image = image;
     }
 }
 

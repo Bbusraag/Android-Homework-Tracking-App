@@ -15,7 +15,19 @@
     <string name="btnClear">Clear</string>
     <string name="btnRegister">Register</string>
     <string name="Back">Back</string>
-    
+    <string name="btnStudentAdd">Add</string>
+    <string name="tvAd">Name</string>
+    <string name="tvSoyad">Surname</string>
+    <string name="tvdepartment">Department</string>
+    <string name="studentname">Name</string>
+    <string name="studentsurname">Surname</string>
+    <string name="studentdepart">Departmant</string>
+    <string name="btninsert">Insert</string>
+    <string name="btndelete">Delete</string>
+    <string name="btnupdate">Update</string>
+    <string name="btnview">View</string>
+    <string name="btnlessonadd">ADD</string>
+
     <string-array name="SCHOOL">
         <item>Primary School</item>
         <item>Middle School</item>
